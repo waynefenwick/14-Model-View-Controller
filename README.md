@@ -18,8 +18,6 @@ If you are a tech develper, you most likely want interaction with other develope
 _A brief overview of the project build_
 &nbsp;
 
-## Media
-
 ![Media](./public/media/tech_blog.png)
 
 * Make a visit to [Tech Blog](https://stark-waters-94993-a4d78ae90400.herokuapp.com/) where you can sign up and participate!
