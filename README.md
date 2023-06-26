@@ -22,7 +22,7 @@ _A brief overview of the project build_
 
 ![Media](./develop/graphics/testing)
 
-* Take a visit to [Tech Blog](https://drive.google.com/file/d/1RP5O_m4o5pA8fouVVtnfsFCCwfmUrG7Y/view)
+* Make a visit to [Tech Blog](https://stark-waters-94993-a4d78ae90400.herokuapp.com/)
 
 &nbsp;
 
