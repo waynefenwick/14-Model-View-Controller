@@ -20,9 +20,9 @@ _A brief overview of the project build_
 
 ## Media
 
-![Media](./develop/graphics/testing)
+![Media](./public/media/tech_blog.png)
 
-* Make a visit to [Tech Blog](https://stark-waters-94993-a4d78ae90400.herokuapp.com/)
+* Make a visit to [Tech Blog](https://stark-waters-94993-a4d78ae90400.herokuapp.com/) where you can sign up and participate!
 
 &nbsp;
 
